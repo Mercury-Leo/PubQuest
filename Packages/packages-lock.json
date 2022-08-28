@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.unity-atoms.unity-atoms": {
+      "version": "https://github.com/unity-atoms/unity-atoms.git#master",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5df498b41ee77de0c5faa73b76f7fd0ed890216a"
+    },
     "com.unity.addressables": {
       "version": "1.19.19",
       "depth": 0,
@@ -36,6 +43,15 @@
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.inputsystem": {
+      "version": "1.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
