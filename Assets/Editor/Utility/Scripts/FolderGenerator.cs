@@ -17,7 +17,7 @@ namespace Editor.Utility.Scripts {
         private const string ScriptsFolder = "Scripts";
         private const string PrefabsFolder = "Prefabs";
         private const string InterfacesFolder = "Interfaces";
-        private const string ScriptableFolder = "Scriptable objects";
+        private const string ScriptableFolder = "ScriptableObjects";
 
         #endregion
 
