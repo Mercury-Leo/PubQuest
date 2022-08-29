@@ -1,7 +1,7 @@
 using UnityEngine;
 
 namespace Core.Entities.Scripts{
-	public class EntityBase : MonoBehaviour{
+	public abstract class EntityBase : MonoBehaviour {
 		
 	}
 }
